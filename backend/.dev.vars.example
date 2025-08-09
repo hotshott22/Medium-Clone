@@ -1,0 +1,9 @@
+# Keeps your secrets here
+# The config and variables in wrangler.toml
+SENTRY_DSN=""
+GEMINI_API_KEY=""
+DIRECT_DATABASE_URL=""
+SUPABASE_JWT_SECRET=""
+SUPABASE_URL=""
+DATABASE_URL=""
+SENTRY_AUTH_TOKEN=""
